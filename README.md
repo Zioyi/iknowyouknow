@@ -4,4 +4,4 @@
 ---
 
 ## rememeberall
-  - [ ] peewee pare DATE field use `datetime`, I prefer `pendulum`.
+  - [ ] peewee parse DATE field use `datetime`, I prefer `pendulum`.
